@@ -7,6 +7,8 @@
                  |__/          
 ```
 
+### *This package has been consolidated into the [`randytarampi/me`](https://github.com/randytarampi/me/tree/master/packages/jsx) monorepo*
+
 Some common components for [www](../www) and [resume](../resume).
 
 # Dependencies
